@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Virtual Environment
+venv/
+
+# SQLite database files
+*.db
+
+# Migrations
+migrations/
+
+# Other files to ignore
+*.log
